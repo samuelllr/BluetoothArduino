@@ -1,4 +1,4 @@
-# BluetoothArduino <img src="iconbluetooth.png"/>
+# BluetoothArduino <img src="iconbluetooth.png"/> 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/samuelllr/BluetoothArduino?color=red)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Samuelllr_htcod?style=social)
