@@ -13,4 +13,11 @@ O projeto esta ainda em desenvolvimento, e logo mais este repositório será atu
 
 **********
 
-<b>Atualizado:</b> 19/01/2021.
+### Pastas
+
+- aprender : contém arquivos PDF's explicando passo a passo.
+- diagrama : contém o diagrama do circuito.
+- img-materiais : contém imagens de todos os materiais usados.
+
+
+### Atualizado: 19/01/2021.
