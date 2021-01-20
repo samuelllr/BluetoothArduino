@@ -16,8 +16,9 @@ O projeto esta ainda em desenvolvimento, e logo mais este repositório será atu
 ### Pastas
 
 - aprender : contém arquivos PDF's explicando passo a passo.
+- codigo : contém o cógido de uso neste projeto.
 - diagrama : contém o diagrama do circuito.
 - img-materiais : contém imagens de todos os materiais usados.
 
 
-### Atualizado: 19/01/2021.
+### Atualizado: 20/01/2021.
