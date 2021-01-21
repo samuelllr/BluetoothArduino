@@ -25,6 +25,10 @@ O projeto esta ainda em desenvolvimento, este repositório será atualizado com 
 
 **********
 
+### Demonstração
+
+<img src="demonstracao.gif"/>
+
 As informações neste repositório não são exatas para qualquer tipo de fone, pois depende muito do modelo  que irá usar, tem chances de mudar um pouco o diagrama e o transistor, PNP ou NPN. Este repositório apenas demostra que é possível alcançar o objetivo que ele apresenta, e de que forma pode ser alcançado.
 
 Este repositório tem Licença MIT, livre e de código aberto. 
