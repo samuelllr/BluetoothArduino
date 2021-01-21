@@ -21,5 +21,8 @@ O projeto esta ainda em desenvolvimento, e logo mais este repositório será atu
 - diagrama : contém o diagrama do circuito.
 - img-materiais : contém imagens de todos os materiais usados.
 
+Este repositório tem Licença MIT, livre e de código aberto. 
+Todo projeto sempre pode ser melhorado, no código, diagrama e expricação dos documentos, isto é livre.
+
 
 ### Atualizado: 20/01/2021.
