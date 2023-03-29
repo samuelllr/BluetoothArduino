@@ -45,7 +45,7 @@ void loop() {
     
   }
 
-  if( ReadClock > 10 ){           // If que analiza se o valor da variável ReadBlock, que esta analizando a porta A0 é maior que 10.
+  if( ReadClock > 10 ){          // If que analiza se o valor da variável ReadBlock, que esta analizando a porta A0 é maior que 10.
     if( block == 0 ){             // Para uma leitura mais fixa foi criado este If onde se a variável block for igual a 0 entra em ação.
       digitalWrite( 2 , 1 );      // Liga o LED azul , dizendo que há 1Hz passando neste exato momento na porta A0.
       mili2+=1;                   // Variável mili2 adiciona mais 1, ou seja , esta contando o número de Hz para depois passar para a variável hz.
